@@ -12,3 +12,6 @@ resource "aws_instance" "app_server" {
   }
 }
 ```
+- [x] AZ104
+- [x] Terraform associate 
+- [ ] cka
